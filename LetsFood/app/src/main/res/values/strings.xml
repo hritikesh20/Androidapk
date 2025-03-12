@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Let\'sFood</string>
+    <string name="demo_des">
+        More Air, less bulk.
+        The Dn8 takes our Dynamic Air
+        system and condenses it into a sleek,
+        low-profile package.
+    </string>
+    <string name="count">count++</string>
+</resources>
